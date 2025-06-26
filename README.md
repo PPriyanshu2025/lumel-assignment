@@ -48,5 +48,14 @@ Sales Analytics API is a Node.js + MongoDB-based backend system designed for tra
 | Hosting    | Localhost / MongoDB Atlas |
 ```
 
+## Setup
+- git clone https://github.com/your-username/sales-analytics-api.git
+- cd Lumel-backend-assignment
+- npm i
+- npm run start:dev
+
+
+# Author: Priyanshu Singh
+- contact: singhpriyansh23898@gmail.com
 
 
