@@ -37,3 +37,13 @@ Sales Analytics API is a Node.js + MongoDB-based backend system designed for tra
 ├── config/           # Database and env config
 ├── app.js            # Main Express server entry
 └── README.md         # Project documentation
+
+
+
+## Tech Stacks
+| Layer      | Technology                |
+| ---------- | ------------------------- |
+| Backend    | Node.js + Express.js      |
+| Database   | MongoDB + Mongoose        |
+| Hosting    | Localhost / MongoDB Atlas |
+
